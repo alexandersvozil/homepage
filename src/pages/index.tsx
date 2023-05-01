@@ -5,7 +5,17 @@ import Link from "next/link";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function Home({ allPostsData }) {
+type PostData = {
+  id: string;
+  date: string;
+  title: string;
+};
+
+type HomeProps = {
+  allPostsData: PostData[];
+};
+
+export default function Home({ allPostsData }: HomeProps) {
   return (
     <div className="flex flex-col justify-center items-center space-y-4">
       <Image
