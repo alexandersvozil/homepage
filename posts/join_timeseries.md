@@ -1,5 +1,5 @@
 ---
-title: "How to join timeseries to the next date easily using pandas"
+title: "Practical guides to joining time series"
 date: "2020-01-02"
 ---
 

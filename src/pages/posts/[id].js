@@ -5,18 +5,18 @@ import Date from "../../components/date";
 
 export default function Post({ postData }) {
   return (
-    <Layout>
+    <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
         <title>{postData.title}</title>
       </Head>
       <article>
-        <h1>{postData.title}</h1>
-        <div>
-          <Date dateString={postData.date} />
-        </div>
-        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        <h1 className="text-4xl font-bold">{postData.title}</h1>
+        <div
+          className="mt-4"
+          dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
+        />
       </article>
-    </Layout>
+    </div>
   );
 }
 
