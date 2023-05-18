@@ -4,15 +4,16 @@ import Head from "next/head";
 import Date from "../../components/date";
 
 export default function Post({ postData }) {
+  console.log(postData.contentHtml);
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
         <title>{postData.title}</title>
       </Head>
       <article>
-        <h1 className="text-4xl font-bold">{postData.title}</h1>
+        <h1 className="text-4xl font-bold mb-4">{postData.title}</h1>
         <div
-          className="mt-4"
+          className="prose"
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
         />
       </article>

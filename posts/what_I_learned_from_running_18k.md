@@ -1,9 +1,9 @@
 ---
-title: "A Marathon of Experiences: From the First Sprint to 18,270 km and Beyond"
+title: "A Marathon of Experiences: What I learned from running 18,270 km and Beyond"
 date: "2023-05-14"
 ---
 
-# A Marathon of Experiences: From the First Sprint to 18,270 km and Beyond
+![Running in Luxembourg](/images/run-lux.jpg)
 
 ## Chapter I: Humble Beginnings
 
@@ -11,7 +11,7 @@ There's a certain romantic naivety to my running story. It started simply enough
 
 To get there, I began running every alternate day, gradually pushing my boundaries. My sister, an endurance sport enthusiast herself, added fuel to my newfound passion, daring me to join a 10km Adidas race. Despite initial doubts, I embarked on this journey, setting a sub-50-minute goal for myself. To my amazement, I hit the mark and was enveloped in an unforgettable wave of accomplishment.
 
-Running, however, is not a path strewn with roses. Early spring in Vienna can bring unexpected heat waves, slowing you down and threatening to shatter your morale. My newfound passion also brought with it an insatiable hunger and the daunting realization that countless high school peers effortlessly outpaced me. Yet, these challenges formed the crucible in which my resolve was tested and strengthened.
+Running, however, is not a path strewn with roses. Early spring in Vienna can bring unexpected heat waves, slowing you down and threatening to shatter your morale. My new love for running kindled a fierce determination within me, despite seeing old schoolmates run faster. This reality was intimidating, but it served as a vital test of my growing resolve and resilience.
 
 ## Chapter II: Crafting Consistency
 
@@ -27,6 +27,8 @@ The longest race is always the one within. Running pushed me to my limits, teach
 
 ## Chapter V: Of Milestones and Memories
 
+![Berlin Marathon](/images/berlin_mara.jpeg)
+
 My running journey is studded with numerous milestones. From my first 10km race under 50 minutes, a heartening half-marathon with a pace of 4:40, to my first marathon in scorching Vienna, each accomplishment served as a stepping stone towards more formidable challenges. My thirst for improvement brought me under the tutelage of Willhelm Lilge, leading to a significant 5k timing of 18:45, a personal record I hold in high regard.
 
 ## Chapter VI: Life Lessons on the Track
@@ -38,3 +40,5 @@ Running, with its highs and lows, imparted invaluable life lessons. It taught me
 As I look back at my running journey spanning half a decade, I realize the importance of the mental component, especially when physical gains begin to plateau. As for future goals, I aim to break the 40-minute 10k barrier and run a sub-1:30 half marathon.
 
 To those poised on the cusp of their own running journey, my advice is simple: Just run. Mix up your distances, incorporate intervals, rest every third week, and most importantly, have fun. Bask in the thrill of the sprint, the endurance of the distance, and savor that first bite of bread or gulp of water post-run. Through it all, embrace running not just as a sport, but as a lifestyle that brings balance and perspective to life.
+
+![Run Lux](/images/strava-stats.jpg)
